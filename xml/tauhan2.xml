@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tauhan>
+	<list
+		value="Simoun"
+		line="Naglagalag ako at nagsikap makaipon ng maraming salapi upang maisagawa ang aking layon. Nagbalik upang ibagsak ang masamang pamahalaan, padaliin ang kanyang pagkasira kahit na dumanak ng maraming dugo. "
+		desc="Si Simoun ay si Crisostomo Ibarra na nagkukunwaring mayamang mag-aalahas."
+		image="simoun"
+	/>
+	<list
+		value="Basilio"
+		line="Ang hangarin ko lamang ay gamutin ang mga sakit ng aking mga kababayan."
+		desc="Si Basilio ay estudyante ng medisina. Kasintahan siya ni Juli."
+		image="basilio"
+	/>
+	<list
+		value="Isagani"
+		line="Doon sa may panganib, doon tayo dapat pumaroon, sapagkat naroon ang karangalan!"
+		desc="Si Isagani ay estudyanteng makata. Kasintahan niya si Paulita."
+		image="isagani"
+	/>
+	<list
+		value="Kabesang Tales"
+		line="Lahat tayo, Ama, ay babalik sa alabok at ipinanganak na walang saplot."
+		desc="Si Kabesang Tales ay ama nina Juli at Carolino. Siya ay isang magsasaka na naging tulisan."
+		image="tales"
+	/>
+	<list
+		value="Tandang Selo"
+		line="Tiisin mo na! Ipagpalagay mo na lang na ang 30 pisong iyon ay natalo sa sugal o kaya’y nahulog sa tubig at sinakmal ng buwaya."
+		desc="Si Tandang Selo ay ama ni Kabesang Tales."
+		image="tandangselo"
+	/>
+	<list
+		value="Placido Penitente"
+		line="Tatalon na muna ako sa dagat o kaya’y manunulisan na muna ako bago bumalik sa unibersidad."
+		desc="Si Placido Penitente ay probinsiyanong estudyante na nag-aaral sa Maynila."
+		image="placidopenitente"
+	/>
+	<list
+		value="Juli"
+		line="Malalaman din niyang pinili ko pang ako ang masanla kaysa masanla ang agnos na bigay niya sa akin."
+		desc="Si Juli ay anak ni Kabesang Tales. Katipan siya ni Basilio."
+		image="juli"
+	/>
+	<list
+		value="Paulita Gomez"
+		line="Kung magkakagayon nga sana, ngunit kailan pa, kung ako’y matanda na?"
+		desc="Sa Paulita Gomez ay kasintahan ni Isagani."
+		image="paulitagomez"
+	/>
+	<list
+		value="Don Custodio"
+		line="Upang mapaamo ang mga Pilipino, kinakailangang ulitin sa kanila araw-araw na sila’y walang kakayahan."
+		desc="Si Don Custodio ang tagapagpasya sa usaping Akademya ng Wikang Kastila."
+		image="doncustodio"
+	/>
+	<list
+		value="Ginoong Pasta"
+		line="A, mabuti pang ipaubaya na ninyo sa kamay ng pamahalaan ang bagay na iyan. Maghintay kayo."
+		desc="Si Ginoong Pasta ang tagapayo ng mga prayle sa mga suliraning legal."
+		image="senyorpasta"
+	/>
+	<list
+		value="Ben-Zayb"
+		line="Maaari ko bang isulat ang tungkol sa bagay na iyan?"
+		desc="Si Ben-Zayb ay isang manunulat sa pahayagan."
+		image="benzayb"
+	/>
+	<list
+		value="Padre Camorra"
+		line="Ang ganda! Anong ganda!"
+		desc="Si Padre Camorra ang kura ng Tiyani na may pagnanasa kay Juli."
+		image="padrecamorra"
+	/>
+	<list
+		value="Padre Fernandez"
+		line="Ang karunungan ay ipinagkakaloob lamang doon sa karapat-dapat at hindi sa mga taong marumi ang kalooban at walang mabuting asal. "
+		desc="Si Padre Fernandez ay isang Dominikanong propesor."
+		image="padrefernandez"
+	/>
+	<list
+		value="Padre Salvi"
+		line="Ang lupaing ito’y maraming beses nang naghimagsik dahil sa sapilitang paggawa."
+		desc="Si Padre Salvi ay isang Pransiskano na may pagtingin kay Maria Clara."
+		image="padresalvi"
+	/>
+	<list
+		value="Padre Sibyla"
+		line="Mapangahas na hiling, bukod sa paglaktaw sa ating kapangyarihan."
+		desc="Si Padre Sibyla ang Dominikanong vice-rector ng Unibersidad ng Sto. Tomas."
+		image="padresibyla"
+	/>
+	<list
+		value="Padre Florentino"
+		line="Ang mga tapat ang loob at ang mga karapat-dapat ay kailangang magtiis upang ang kanilang adhikain ay kumalat at malaman, mayroon ding hatol at pag-uusig ang Diyos sa mga maniniil."
+		desc="Si Padre Florentino ang amain ni Isagani."
+		image="padreflorentino"
+	/>
+	<list
+		value="Padre Irene"
+		line="Ang mga kahigpitang iya’y pinaiiral lamang kung ang hindi nakapangumpisal ay walang ibabayad, ngunit si Kapitan Tiago...! Aba! Kung ang mga Tsinong hindi binyagan ay inililibing ninyo nang may misa de requiem pa!"
+		desc="Si Padre Irene ang nag-udyok kay Kapitan Tiago upang malulong sa apyan."
+		image="padreirene"
+	/>
+	<list
+		value="Juanito Pelaez"
+		line="Sumama ako. At sapagkat maraming magagandang dalaga, hinarana naming lahat. Napakasaya, walang bahay na hindi namin pinanhik!"
+		desc="Si Juanito Pelaez ay estudyanteng kabilang sa kilalang angkang may dugong Kastila. Nais niyang mapangasawa si Paulita Gomez."
+		image="juanitopelaez"
+	/>
+	<list
+		value="Macaraig"
+		line="Marangal na asal. Noong mga araw na payapa ay lumalayo ka sa amin."
+		desc="Si Macaraig ay mayamang estudyanteng sumusuporta sa pagtatag ng Akademya ng Wikang Kastila."
+		image="macaraig"
+	/>
+	<list
+		value="Sandoval"
+		line="Wala, hindi taglay ng Pranses ang mayamang tunog at tamis ng wikang Kastila."
+		desc="Si Sandoval ay estudyanteng Kastila na kapanalig ng mga mag-aaral sa usapin ng Akademya ng Wikang Kastila."
+		image="sandoval"
+	/>
+	<list
+		value="Pecson"
+		line="Kung ang bitukang busog ay nagpupuri sa Diyos, ang bitukang gutom ay nagpupuri naman sa prayle."
+		desc="Si Pecson ay kabilang sa mga estudyanteng nagsusulong para sa Akademya ng Wikang Kastila."
+		image="pecson"
+	/>
+	<list
+		value="Tadeo"
+		line="Walang klase! Walang klase!"
+		desc="Si Tadeo ay kabilang sa mga estudyanteng nagsusulong para sa Akademya ng Wikang Kastila."
+		image="tadeo"
+	/>
+	<list
+		value="Carolino"
+		line="Sa aki’y wala, ngunit ako’y naaawa sa kanila. Sila’y mga tao ring katulad natin."
+		desc="Si Carolino ay anak ni Kabesang Tales at kapatid ni Juli. Isa siyang guwardiya sibil."
+		image="carolino"
+	/>
+	<list
+		value="Mr. Leeds"
+		line="Mga ginoo, sa pamamagitan ng isang salita’y bubuhayin ko ang sandakot na abo upang makausap ninyo ang tanging nilikhang nakababatid ng nakaraan, ng kasalukuyan, at ng hinaharap."
+		desc="Si Mr. Leeds ang Amerikanong nagtatanghal sa perya."
+		image="ginoongleeds"
+	/>
+	<list
+		value="Donya Victorina"
+		line="Mabuti pa’y matabunan na ang wawa kaysa magkaroon ng maraming nakadidiring balot!"
+		desc="Si Donya Victorina ay Pilipinang nagpapanggap na Europea. Tiyahin siya ni Paulita."
+		image="donyavictorina"
+	/>
+	<list
+		value="Quiroga"
+		line="Sinyo Simoun! Akyen lugi, akyen maksak!"
+		desc="Si Quiroga ay isang negosyanteng Tsino."
+		image="quiroga"
+	/>
+	<list
+		value="Mataas na Kawani"
+		line="Mas nais ko pa ang mamatay nang dahil sa mga niyuyurakang karapatan ng mga naaapi, kaysa magtagumpay sa piling ng mga hangaring ikagagaling lamang ng isang bansa, gaya ng Espanya."
+		desc="Ang Mataas na Kawani ay kapanalig ng mga Indio."
+		image="mataasnakawani"
+	/>
+	<list
+		value="Kapitan Basilio"
+		line="Kung sa bagay, hindi masama ang panukalang iyan, ngayong hindi na mapag-aaralan ang Latin, ay pag-aaralan naman ang wikang Kastila. Diyan makikilala na tayo’y lumalakad nang paurong."
+		desc="Si Kapitan Basilio ay isa sa mga kapitan ng San Diego."
+		image="kapitanbasilio"
+	/>
+	<list
+		value="Kabesang Andang"
+		line="Naipangako ko sa iyong ama na aarugain kita, patuturuang maging ganap na abugado. Ginawa ko ang lahat upang makapag-aral ka."
+		desc="Si Kabesang Andang ang ina ni Placido."
+		image="kabesangandang"
+	/>
+	<list
+		value="Hermana Bali"
+		line="Siya, bumalik na tayo kung ayaw mo. Pabayaan mong barilin si Basilio sa daan at sabihing nagtangkang tumakas. Kapag patay na ay saka ka magsisi."
+		desc="Si Hermana Bali ang naghimok kay Juli upang humingi ng tulong kay Padre Camorra."
+		image="hermanabali"
+	/>
+	<list
+		value="Hermana Penchang"
+		line="Pinadadalhan tayo ng Diyos ng gayong mga parusa dahil tayo ay makasalanan o may kamag-anak na makasalanan na dapat sana’y tinuruan natin ng kabanalan subalit hindi natin ginawa."
+		desc="Si Hermana Penchang ang mayaman at madasaling amo ni Juli."
+		image="hermanapenchang"
+	/>
+</tauhan>
